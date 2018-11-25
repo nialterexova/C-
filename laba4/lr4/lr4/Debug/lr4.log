@@ -1,0 +1,3 @@
+﻿  lr4.cpp
+c:\users\izmenehy sama\documents\c++\laba4\lr4\lr4\lr4.cpp(34): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lr4.vcxproj -> C:\Users\Izmenehy sama\Documents\C++\laba4\lr4\Debug\lr4.exe
