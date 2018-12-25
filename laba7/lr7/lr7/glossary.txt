@@ -3,3 +3,5 @@ Gandalf=mage
 Legolas=mimi 
 goodbuy=poka
 hello=privet zdraste
+kartoshka=ovosh` 
+ооо=222 

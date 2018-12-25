@@ -1,0 +1,7 @@
+﻿  enemy.cpp
+c:\users\izmenehy sama\documents\github\c-\laba11\lr11\lr11\enemy.h(31): error C2059: синтаксическая ошибка: =
+c:\users\izmenehy sama\documents\github\c-\laba11\lr11\lr11\enemy.h(31): error C2238: непредвиденные лексемы перед ";"
+  lr11.cpp
+c:\users\izmenehy sama\documents\github\c-\laba11\lr11\lr11\enemy.h(31): error C2059: синтаксическая ошибка: =
+c:\users\izmenehy sama\documents\github\c-\laba11\lr11\lr11\enemy.h(31): error C2238: непредвиденные лексемы перед ";"
+  Создание кода...
