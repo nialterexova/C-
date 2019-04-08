@@ -1,0 +1,15 @@
+﻿  laba2_1.cpp
+C:\Users\nialt\OneDrive\Documents\GitHub\C-\laba2_1\laba2_1\massiv.h(6): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\nialt\OneDrive\Documents\GitHub\C-\laba2_1\laba2_1\massiv.h(6): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\nialt\OneDrive\Documents\GitHub\C-\laba2_1\laba2_1\massiv.h(6): error C2238: непредвиденные лексемы перед ";"
+  massiv.cpp
+C:\Users\nialt\OneDrive\Documents\GitHub\C-\laba2_1\laba2_1\massiv.h(6): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\nialt\OneDrive\Documents\GitHub\C-\laba2_1\laba2_1\massiv.h(6): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\nialt\OneDrive\Documents\GitHub\C-\laba2_1\laba2_1\massiv.h(6): error C2238: непредвиденные лексемы перед ";"
+C:\Users\nialt\OneDrive\Documents\GitHub\C-\laba2_1\laba2_1\massiv.cpp(7): error C2065: mas: необъявленный идентификатор
+C:\Users\nialt\OneDrive\Documents\GitHub\C-\laba2_1\laba2_1\massiv.cpp(7): error C2061: синтаксическая ошибка: идентификатор "T"
+C:\Users\nialt\OneDrive\Documents\GitHub\C-\laba2_1\laba2_1\massiv.cpp(15): error C2065: mas: необъявленный идентификатор
+C:\Users\nialt\OneDrive\Documents\GitHub\C-\laba2_1\laba2_1\massiv.cpp(15): error C2061: синтаксическая ошибка: идентификатор "T"
+C:\Users\nialt\OneDrive\Documents\GitHub\C-\laba2_1\laba2_1\massiv.cpp(21): error C2065: mas: необъявленный идентификатор
+C:\Users\nialt\OneDrive\Documents\GitHub\C-\laba2_1\laba2_1\massiv.cpp(21): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+  Создание кода...
